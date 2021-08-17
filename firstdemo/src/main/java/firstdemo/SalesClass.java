@@ -17,12 +17,6 @@ public class SalesClass {
 		System.out.println("Print ALl Array Number:");
 		display();
 	}
-}
-			
-		}
-		System.out.println(sum);
-	}
+
 	
-	public void print() {
-		System.out.println("Print ALl Array Number:");
-		display();
+}
